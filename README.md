@@ -13,7 +13,7 @@ Before you begin, ensure you have the following installed:
 *     start with Database conection*:
 
 1. run this command in your terminal :```mysql -u root -p```
-2. then create Database  using this :```CREATE DATABASE questiondb```
+2. then create Database  using this :```CREATE DATABASE questiondb;```
 
 ### * update Your application.properties
 #### * Replace userName & yourPassword with your actual MySQL userName & password respectively.
